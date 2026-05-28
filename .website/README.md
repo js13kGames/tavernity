@@ -1,0 +1,5 @@
+---
+# See github.com/js13kGames/hello-world for supported frontmatter
+---
+
+Experience what it's like to be a 13th century tavern owner.  Serve patrons their drinks in a timely manor, lest they get angry!  Oh, and watch out for moles.
